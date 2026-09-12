@@ -15,6 +15,7 @@ Analysis of core business KPIs, including **total orders**, **units sold**, **re
 ### 02 — Order Analysis
 
 Order-level analysis including **monthly performance**, **order segmentation**, **purchase sequence** and **Patero analysis**.
+
 ---
 
 ### 03 — Customer Analysis
