@@ -1,4 +1,3 @@
-USE sql_analytics;
 
 -- ========================================
 -- Customer Lifetime Revenue

@@ -6,28 +6,20 @@ A collection of **SQL projects** demonstrating business analysis, customer behav
 
 ## Projects
 
-### 01 — Sales Analysis
+### 01 — KPI Analysis
 
-Sales and revenue analysis focused on **orders**, **revenue trends**, **category performance**, **average order value**, and **month-over-month growth**.
-
----
-
-### 02 — Customer Analysis
-
-Customer-focused analysis covering **lifetime revenue**, **repeat customer rate**, **purchase behavior**, **Pareto analysis**, and **cohort retention**.
+Analysis of core business KPIs, including **total orders**, **units sold**, **revenue**, **average order value**, **category performance**, and **month-over-month growth**.
 
 ---
 
-### 03 — Order Analysis
+### 02 — Order Analysis
 
-Order-level analysis including **monthly performance**, **order segmentation**, **purchase sequence**, **basket behavior**, and **rolling metrics**.
-
+Order-level analysis including **monthly performance**, **order segmentation**, **purchase sequence** and **Patero analysis**.
 ---
 
-### 04 — Product Analysis
+### 03 — Customer Analysis
 
-Product and category performance analysis focused on **revenue contribution**, **units sold**, **product ranking**, and **revenue share**.
-
+Customer-focused analysis covering **lifetime revenue**, **repeat customer rate**, **purchase behavior**, and **days between purchase**.
 
 ---
 
@@ -39,7 +31,6 @@ Product and category performance analysis focused on **revenue contribution**, *
 - `Window Functions`
 - `Aggregations`
 - `JOINs`
-- `Subqueries`
 - `Pareto Analysis`
 - `Customer Segmentation`
 - `Time-Series Analysis`

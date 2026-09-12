@@ -1,4 +1,3 @@
-USE sql_analytics;
 
 -- ========================================
 --  Monthly order performance + MoM growth

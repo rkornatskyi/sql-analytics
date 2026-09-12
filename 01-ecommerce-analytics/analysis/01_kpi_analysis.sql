@@ -1,4 +1,3 @@
-USE sql_analytics;
 
 -- ========================================
 -- Overall Order Performance
